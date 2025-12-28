@@ -71,21 +71,13 @@ rock-paper-scissor/
 
 ---
 
-## 📸 Preview
-
-> *A modern, dark-themed gaming interface with interactive buttons and hover effects.*
-
----
-
 ## 👤 Author
 
-**Madhav (Nilabh Madhav Mishra)**  
-B.Tech Computer Science Student  
+** Nilabh Madhav Mishra**   
 Aspiring Web & AI Developer
-
 ---
 
 ## ⭐ Feedback
 
-If you like this project or have suggestions, feel free to improve it or share feedback.  
+If you like this project or have suggestions, feel free to to give it a star and suggestions.  
 Happy Coding! 🚀
